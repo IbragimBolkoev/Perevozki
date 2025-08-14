@@ -2828,8 +2828,8 @@ input, select, textarea {
   /* Адаптация для мобильных */
   @media (max-width: 768px) {
 	.hero-section {
-	  min-height: 100vh;
-	  height: auto;
+	  min-height: 400px;
+	  height: 60vh;
 	  padding: 60px 0;
 	}
 	
@@ -3234,3 +3234,7 @@ input, select, textarea {
 	border-top: 1px solid rgba(129, 30, 23, 0.3) !important; /* Тонкая красная граница сверху */
 	backdrop-filter: blur(2px) !important; /* Легкое размытие для красивого эффекта */
   }
+
+
+
+  
