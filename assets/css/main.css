@@ -3235,6 +3235,7 @@ input, select, textarea {
 	backdrop-filter: blur(2px) !important; /* Легкое размытие для красивого эффекта */
   }
 
-
-
-  
+.max-icon {
+    width: 30px;
+    height: 30px;
+}
